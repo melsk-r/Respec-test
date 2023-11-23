@@ -3,7 +3,7 @@ let respecConfig = {
 //  useLabel: true,
 //  license: "eupl",
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
-  specStatus: "CV",
+  specStatus: "DEF",
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
   specType: "IM",
   //pubDomain: "dk",
