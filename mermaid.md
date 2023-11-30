@@ -11,4 +11,5 @@ graph TD;
     C-->D;
 ```
 
+<figcaption>Mermaid voorbeeld</figcaption>
 </figure>
