@@ -1,7 +1,7 @@
 # Mermaid diagram
 
 Tekst
-<!--<figure>
+<figure>
 
 ```mermaid
 graph TD;
@@ -11,5 +11,5 @@ graph TD;
     C-->D;
 ```
 
-<figcaption>Mermaid voorbeeld</figcaption>
-</figure> -->
+<!--figcaption>Mermaid voorbeeld</figcaption-->
+</figure>
