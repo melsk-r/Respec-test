@@ -2,4 +2,4 @@
 ### Titel
 
 ### Subtitel
-Tekst, tekst, tekst.
+Tekst.
