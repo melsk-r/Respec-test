@@ -1,4 +1,7 @@
 name: Build and Check
+permissions:
+  contents: read
+  pages: write
 on:
   workflow_dispatch:
   pull_request:
