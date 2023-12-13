@@ -6,33 +6,38 @@ let respecConfig = {
   specStatus: "DEF",
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
   specType: "IM",
-  //pubDomain: "dk",
-  shortName: "template",
-  publishDate: "2023-06-21",
-  publishVersion: "0.0.3",
+  pubDomain: "cim",
+  shortName: "ori",
+  publishDate: "2023-12-13",
+  publishVersion: "2.0.0",
   
-  previousVersion: "0.0.2",
-  previousPublishDate: "2022-06-24",
+  previousVersion: "1.2.0",
+  previousPublishDate: "2023-01-13",
   previousMaturity: "WV",
   title: "titleText",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
     [
       {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
+        name: "Robert Melskens",
+        company: "VNG Realisatie",
+        companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
   authors:
     [
       {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
+        name: "Johan Boer",
+        company: "VNG Realisatie",
+        companyURL: "https://vng.nl/artikelen/vng-realisatie",
+      },
+      {
+        name: "Henri Korver",
+        company: "VNG Realisatie",
+        companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
-  github: "https://github.com/Logius-standaarden/ReSpec-template",
+  github: "https://github.com/melsk-r/Respec-test",
 
 
   // Create PDF and link to file in header (optional):
