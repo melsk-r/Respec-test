@@ -6,7 +6,6 @@ let respecConfig = {
   specStatus: "DEF",
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
   specType: "IM",
-  pubDomain: "cim",
   shortName: "ori",
   publishDate: "2023-12-13",
   publishVersion: "2.0.0",
