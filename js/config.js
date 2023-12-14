@@ -13,7 +13,7 @@ let respecConfig = {
   previousPublishVersion: "1.2.0",
   previousPublishDate: "2023-01-13",
   previousMaturity: "WV",
-  title: "titleText",
+  title: "Open Raads- en Stateninformatie",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
     [
