@@ -43,7 +43,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: ["cim-ori-2.0.0.pdf"],
+          uri: "cim-ori-2.0.0.pdf",
       },
   ],
 };
