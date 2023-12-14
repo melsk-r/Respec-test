@@ -9,7 +9,7 @@ let respecConfig = {
   shortName: "ori",
   publishDate: "2023-12-13",
   publishVersion: "2.0.0",
-  
+  useSideBar: false,
   previousPublishVersion: "1.2.0",
   previousPublishDate: "2023-01-13",
   previousMaturity: "WV",
