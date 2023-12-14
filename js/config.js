@@ -43,7 +43,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: ["shortName", ".", "pdf"],
+          uri: ["shortName", "-", "publishVersion", ".", "pdf"],
       },
   ],
 };
