@@ -2,17 +2,21 @@ let respecConfig = {
 //  useLogo: true,
 //  useLabel: true,
 //  license: "eupl",
-  // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
-  specStatus: "DEF",
+  shortName: "ori",
+
   // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
   specType: "IM",
-  shortName: "ori",
+ 
+  // Zie 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
+  specStatus: "DEF",
   publishDate: "2023-12-13",
   publishVersion: "2.0.0",
-  useSideBar: false,
-  previousPublishVersion: "1.2.0",
-  previousPublishDate: "2023-01-13",
+  
+  // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
   previousMaturity: "WV",
+  previousPublishDate: "2023-01-13",
+  previousPublishVersion: "1.2.0",
+
   title: "Open Raads- en Stateninformatie",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
