@@ -13,7 +13,7 @@ let respecConfig = {
   publishVersion: "2.0.0",
   
   // Zie 'localizationStrings/nl' voor de lijst met toegestane maturities
-  previousMaturity: "WV",
+  previousMaturity: "DEF",
   previousPublishDate: "2023-01-13",
   previousPublishVersion: "1.2.0",
 
